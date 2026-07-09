@@ -1,0 +1,2 @@
+This is sample file 1 for 7-Zip demo.
+Contains normal text.

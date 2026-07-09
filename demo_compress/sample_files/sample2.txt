@@ -1,0 +1,2 @@
+Sample file 2 for compression demo.
+Includes a keyword: secret_document.txt
